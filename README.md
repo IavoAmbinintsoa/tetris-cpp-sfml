@@ -86,4 +86,7 @@ g++ -o tetris tetris.cpp -lsfml-graphics -lsfml-window -lsfml-system
   - **Score** and **Best Score** displayed at the bottom right
 
 ---
+## Model
+![model](https://github.com/user-attachments/assets/dd2c0a92-e06b-4bcf-a865-d7ad541abb15)
+
 
