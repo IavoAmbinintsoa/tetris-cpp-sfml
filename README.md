@@ -2,10 +2,11 @@
 
 ---
 
-# 🎮 TETRIS — C++ + SFML
+# 🎮 TETIRISY — C++ + SFML
 
 A **custom Tetris game**, developed in C++ using the **SFML** graphics library. It handles piece movement, collisions, scoring, best score saving, and a simple graphical interface.
 
+###Version : 0.1
 ---
 
 ## 🧱 Project Structure
