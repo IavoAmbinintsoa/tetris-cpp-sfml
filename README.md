@@ -39,7 +39,7 @@ A **custom Tetris game**, developed in C++ using the **SFML** graphics library. 
 ## ▶️ Running the Game
 
 ```bash
-g++ -o tetris main.cpp -lsfml-graphics -lsfml-window -lsfml-system
+g++ -o tetris tetris.cpp -lsfml-graphics -lsfml-window -lsfml-system
 ./tetris
 ```
 
