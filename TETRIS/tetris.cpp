@@ -123,7 +123,7 @@ OneFigure randomcell(vector<OneFigure>& forList, const Texture& tex)
     };
     c = listeCouleur[n % listeCouleur.size()];
 
-    OneFigure fig = forList[2];
+    OneFigure fig = forList[n];
     for (auto& e : fig)
     {
         e.couleur = c;
